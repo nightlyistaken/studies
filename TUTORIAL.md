@@ -42,3 +42,12 @@ print(x)
 print(y) 
 ```
 In the above example, we are creating two variables, `x` and `y`. `x` is an integer variable, and `y` is a string variable. We are then printing the variables to the console.
+
+Python uses indentation to define blocks of code. This means that you use whitespace (usually 4 spaces) to indicate where a block of code begins and ends.
+
+Example:
+```py
+def main():
+    print("This code is inside this function")
+print("This code is outside the function")
+```
