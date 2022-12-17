@@ -1,7 +1,7 @@
 ## School Studies
 This repository contains all the projects I have done in my school practicals (so that my friends can see them) 
 > All of them are written in Python.
-
+*there is a TUTORIAL.md file that contains all the basics of python*
 ## Projects
 
 - Calculator
