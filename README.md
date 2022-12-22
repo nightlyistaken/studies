@@ -14,3 +14,4 @@ This repository contains all the projects I have done in my school practicals (s
 - Word x 5
 - Compound interest
 - Mensuration for a circle
+- Multiplication table for a number
